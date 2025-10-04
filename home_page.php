@@ -102,6 +102,9 @@ footer {
             case 'tokyo':
                 include 'modules/tokyo.php';
                 break;
+            case 'japan':
+                include 'modules/japan.php';
+                break;
         }
     }
     ?>
