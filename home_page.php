@@ -105,6 +105,9 @@ footer {
             case 'japan':
                 include 'modules/japan.php';
                 break;
+            case 'korea':
+                include 'modules/korea.php';
+                break;
         }
     }
     ?>
